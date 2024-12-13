@@ -1,4 +1,3 @@
-# Voter_Demograpic.py
 # Voter Demographics Analysis Tool
 
 ## Overview
